@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What skills are required to become an AI & ML Engineer?",
+    "answer": "Python, Machine Learning, Deep Learning, Data Structures, SQL, Statistics, TensorFlow, PyTorch, and deployment skills."
+  },
+  {
+    "question": "What programming language is most important for AI and ML?",
+    "answer": "Python is the most important language due to its libraries like NumPy, Pandas, Scikit-learn, TensorFlow, and PyTorch."
+  },
+  {
+    "question": "What is the minimum education required for AI & ML Engineer?",
+    "answer": "A Bachelor's degree in Computer Science, IT, Data Science, AI, or related fields."
+  },
+  {
+    "question": "Can I become an AI Engineer without a degree?",
+    "answer": "Yes, but you need strong practical skills, projects, GitHub portfolio, and certifications."
+  },
+  {
+    "question": "What is Deep Learning?",
+    "answer": "Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers to learn from large datasets."
+  },
+  {
+    "question": "What is RAG in AI?",
+    "answer": "RAG (Retrieval Augmented Generation) combines retrieval of relevant documents with LLM generation to improve accuracy."
+  },
+  {
+    "question": "What are common ML algorithms?",
+    "answer": "Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM, KNN, K-Means, Gradient Boosting."
+  },
+  {
+    "question": "What is model overfitting?",
+    "answer": "Overfitting happens when a model learns training data too well and performs poorly on new data."
+  },
+  {
+    "question": "What is evaluation in ML?",
+    "answer": "Evaluation measures model performance using metrics like accuracy, precision, recall, F1-score, and ROC-AUC."
+  },
+  {
+    "question": "What projects should I build for AI/ML job?",
+    "answer": "Spam detection, sentiment analysis, recommendation system, image classification, fraud detection, chatbot using RAG."
+  }
+]
